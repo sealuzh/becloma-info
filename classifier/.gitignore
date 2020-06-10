@@ -1,0 +1,6 @@
+.idea/
+.DS_Store
+.gitignore~
+*.egg-info/
+*.pyc
+venv/
